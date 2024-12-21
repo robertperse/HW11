@@ -6,8 +6,7 @@ public class Main {
         leapYear(2024);
         leapYear(1800);
         leapYear(2056);
-        appVersion(2024, 1);
-        appVersion(2023, 0);
+        appVersion(2015, 1);
         int deliveryDistance = 15;
         int days = deliveryDays(deliveryDistance);
         if (days != -1) {
